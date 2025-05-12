@@ -1,0 +1,113 @@
+{
+    "name": "Custom Xbox Skin with Logo",
+    "version": 1,
+    "background": {
+        "image": "background.png",
+        "width": 800,
+        "height": 400
+    },
+    "buttons": {
+        "a": {
+            "x": 620,
+            "y": 260,
+            "width": 32,
+            "height": 32
+        },
+        "b": {
+            "x": 660,
+            "y": 230,
+            "width": 32,
+            "height": 32
+        },
+        "x": {
+            "x": 580,
+            "y": 230,
+            "width": 32,
+            "height": 32
+        },
+        "y": {
+            "x": 620,
+            "y": 200,
+            "width": 32,
+            "height": 32
+        },
+        "lb": {
+            "x": 150,
+            "y": 100,
+            "width": 60,
+            "height": 20
+        },
+        "rb": {
+            "x": 590,
+            "y": 100,
+            "width": 60,
+            "height": 20
+        },
+        "lt": {
+            "x": 150,
+            "y": 50,
+            "width": 60,
+            "height": 20
+        },
+        "rt": {
+            "x": 590,
+            "y": 50,
+            "width": 60,
+            "height": 20
+        },
+        "back": {
+            "x": 310,
+            "y": 160,
+            "width": 20,
+            "height": 20
+        },
+        "start": {
+            "x": 470,
+            "y": 160,
+            "width": 20,
+            "height": 20
+        },
+        "guide": {
+            "x": 390,
+            "y": 150,
+            "width": 30,
+            "height": 30
+        },
+        "leftstick": {
+            "x": 250,
+            "y": 250,
+            "width": 40,
+            "height": 40
+        },
+        "rightstick": {
+            "x": 500,
+            "y": 250,
+            "width": 40,
+            "height": 40
+        },
+        "du": {
+            "x": 170,
+            "y": 190,
+            "width": 32,
+            "height": 32
+        },
+        "dd": {
+            "x": 170,
+            "y": 250,
+            "width": 32,
+            "height": 32
+        },
+        "dl": {
+            "x": 140,
+            "y": 220,
+            "width": 32,
+            "height": 32
+        },
+        "dr": {
+            "x": 200,
+            "y": 220,
+            "width": 32,
+            "height": 32
+        }
+    }
+}
